@@ -69,7 +69,7 @@ Language - Python
 ● Regression with TensorFlow
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/drive/folders/1GDNM57Ikc42gPVxQEHKkMT0ltozIiBPY)
+![App Screenshot](flow.png)
 
 ## Project Takeaways
 
